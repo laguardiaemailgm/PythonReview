@@ -1,0 +1,8 @@
+#ignore git
+.git/
+
+#ignore venv
+venv/
+
+#ignore IDE idea
+.idea/
